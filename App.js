@@ -74,7 +74,7 @@ const styles = StyleSheet.create({
   },
   formulario: {
     position: 'absolute',
-    bottom: 60,
+    bottom: 30,
     width: '100%',
     flexDirection: 'row',
     alignItems: 'center',
